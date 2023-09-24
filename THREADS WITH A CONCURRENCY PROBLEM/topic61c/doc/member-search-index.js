@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"app","c":"Counter","l":"Counter()","u":"%3Cinit%3E()"},{"p":"app","c":"Counter","l":"getCount()"},{"p":"app","c":"Counter","l":"increment()"}];updateSearchResults();
